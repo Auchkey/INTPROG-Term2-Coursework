@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ objectRadius\ theMachine
+comment0.target=BallObject(int,\ int,\ int,\ Machine)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ BallObject\n\ \n\ @param\ xPos\ \ the\ horizontal\ coordinate\ of\ the\ object\n\ @param\ yPos\ \ the\ vertical\ coordinate\ of\ the\ object\n\ @param\ objectRadius\ \ the\ radius\ (in\ pixels)\ of\ the\ object\n\ @param\ theMachine\ \ the\ machine\ this\ object\ is\ in\n
+comment1.params=
+comment1.target=int\ getXPosition()
+comment1.text=\n\ return\ the\ horizontal\ position\ of\ this\ object\n
+comment2.params=
+comment2.target=int\ getYPosition()
+comment2.text=\n\ return\ the\ vertical\ position\ of\ this\ object\n
+comment3.params=
+comment3.target=int\ getRadius()
+comment3.text=\n\ return\ the\ radius\ of\ this\ object\n
+comment4.params=
+comment4.target=int\ getDiameter()
+comment4.text=\n\ return\ the\ diameter\ of\ this\ object\n
+comment5.params=
+comment5.target=java.awt.Color\ getColor()
+comment5.text=\n\ return\ the\ colour\ of\ this\ object\n
+comment6.params=holeXPos\ holeYPos
+comment6.target=void\ removeObject(int,\ int)
+comment6.text=\n\ flag\ the\ object\ as\ removed\ from\ the\ machine\ and\ place\ it\ under\ the\ hole\ it\ fell\ through\n\ \n\ @param\ holeXPos\ \ the\ x\ coordinate\ of\ the\ hole\ to\ be\ placed\ under\n\ @param\ holeYPos\ \ the\ y\ coordinate\ of\ the\ hole\ to\ be\ placed\ under\n
+comment7.params=
+comment7.target=boolean\ checkIfRemoved()
+comment7.text=\n\ check\ if\ object\ has\ been\ removed\ from\ the\ machine\n
+numComments=8

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ xVel\ yVel\ objectRadius\ theMachine
+comment0.target=PinballTypeB(int,\ int,\ int,\ int,\ int,\ Machine)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ PinballTypeB\n\ \n\ @param\ xPos\ \ the\ horizontal\ coordinate\ of\ the\ object\n\ @param\ yPos\ \ the\ vertical\ coordinate\ of\ the\ object\n\ @param\ xVel\ \ the\ horizontal\ speed\ of\ the\ object\n\ @param\ yVel\ \ the\ vertical\ speed\ of\ the\ object\n\ @param\ objectRadius\ \ the\ radius\ (in\ pixels)\ of\ the\ object\n\ @param\ theMachine\ \ the\ machine\ this\ object\ is\ in\n
+numComments=1

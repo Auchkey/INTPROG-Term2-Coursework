@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Demo()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Demo\n
+comment1.params=
+comment1.target=void\ defaultDemo()
+comment1.text=\n\ Sample\ demo\ method\ -\ Creates\ pinballs,\ holes\ and\ bumpers\ and\ runs\ until\ \n\ one\ falls\ through\ the\ gap.\n
+comment2.params=
+comment2.target=void\ pinBallADemo()
+comment2.text=\n\ Demonstrates\ the\ functionality\ of\ type\ a\ pinballs.\n
+comment3.params=
+comment3.target=void\ pinBallBDemo()
+comment3.text=\n\ Demonstrates\ the\ functionality\ of\ type\ b\ pinballs.\n
+comment4.params=
+comment4.target=void\ bumperDemo()
+comment4.text=\n\ Demonstrates\ the\ functionality\ of\ bumpers.\n
+comment5.params=
+comment5.target=void\ holeDemo()
+comment5.text=\n\ Demonstrates\ the\ functionality\ of\ holes.\n
+numComments=6

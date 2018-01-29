@@ -1,0 +1,43 @@
+Class documentation
+<---- javadoc command: ---->
+/Applications/BlueJ 3.1.7/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/Applications/BlueJ 3.1.7/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Applications/BlueJ 3.1.7/BlueJ.app/Contents/Resources/Java/junit-4.8.2.jar:/Applications/BlueJ 3.1.7/BlueJ.app/Contents/Resources/Java/userlib/pi4j-core.jar:/Applications/BlueJ 3.1.7/BlueJ.app/Contents/Resources/Java/userlib/pi4j-device.jar:/Applications/BlueJ 3.1.7/BlueJ.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/Applications/BlueJ 3.1.7/BlueJ.app/Contents/Resources/Java/userlib/pi4j-service.jar:/Volumes/NO NAME/Teaching 2016-17/INTPROG/TB2/Code Snippets/Coursework/pinball_complete
+-d
+/Volumes/NO NAME/Teaching 2016-17/INTPROG/TB2/Code Snippets/Coursework/pinball_complete/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Applications/BlueJ 3.1.7/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Volumes/NO NAME/Teaching 2016-17/INTPROG/TB2/Code Snippets/Coursework/pinball_complete/Canvas.java
+<---- end of javadoc command ---->
+Loading source file /Volumes/NO NAME/Teaching 2016-17/INTPROG/TB2/Code Snippets/Coursework/pinball_complete/Canvas.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_66
+Building tree for all the packages and classes...
+Generating /Volumes/NO NAME/Teaching 2016-17/INTPROG/TB2/Code Snippets/Coursework/pinball_complete/doc/Canvas.html...
+/Volumes/NO NAME/Teaching 2016-17/INTPROG/TB2/Code Snippets/Coursework/pinball_complete/Canvas.java:51: warning - @param argument "bgClour" is not a parameter name.
+Generating /Volumes/NO NAME/Teaching 2016-17/INTPROG/TB2/Code Snippets/Coursework/pinball_complete/doc/package-frame.html...
+Generating /Volumes/NO NAME/Teaching 2016-17/INTPROG/TB2/Code Snippets/Coursework/pinball_complete/doc/package-summary.html...
+Generating /Volumes/NO NAME/Teaching 2016-17/INTPROG/TB2/Code Snippets/Coursework/pinball_complete/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Volumes/NO NAME/Teaching 2016-17/INTPROG/TB2/Code Snippets/Coursework/pinball_complete/doc/allclasses-frame.html...
+Generating /Volumes/NO NAME/Teaching 2016-17/INTPROG/TB2/Code Snippets/Coursework/pinball_complete/doc/allclasses-noframe.html...
+Generating /Volumes/NO NAME/Teaching 2016-17/INTPROG/TB2/Code Snippets/Coursework/pinball_complete/doc/index.html...
+Generating /Volumes/NO NAME/Teaching 2016-17/INTPROG/TB2/Code Snippets/Coursework/pinball_complete/doc/stylesheet.css...
+1 warning
